@@ -1,0 +1,19 @@
+{
+  "name": "3d-audio-pathtracer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tim-Kaiser/3d-audio-pathtracer.git"
+  },
+  "author": "Tim Kaiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tim-Kaiser/3d-audio-pathtracer/issues"
+  },
+  "homepage": "https://github.com/Tim-Kaiser/3d-audio-pathtracer#readme"
+}
